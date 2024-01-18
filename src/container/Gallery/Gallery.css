@@ -122,6 +122,9 @@
     .app__gallery {
         padding: 4rem 0 4rem 4rem;
     }
+    .app__gallery-images_arrows {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 650px) {
